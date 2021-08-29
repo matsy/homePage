@@ -11,4 +11,6 @@ Second, I surfed the web for a bootstrap template that would serve my purpose an
 I modified their code to serve my purpose. pushed the code to the repository and saved the content to publish it to the GitHub Page.
 </p>
 
+Do let me know if you have a better template
+
 <h2> </h2>
